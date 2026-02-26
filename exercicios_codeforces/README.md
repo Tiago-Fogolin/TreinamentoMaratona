@@ -1,0 +1,14 @@
+# Ordem sugerida
+- Watermelon — https://codeforces.com/problemset/problem/4/A
+- Way Too Long Words — https://codeforces.com/problemset/problem/71/A
+- Team — https://codeforces.com/problemset/problem/231- 
+- Bit++ — https://codeforces.com/problemset/problem/282- 
+- Next Round — https://codeforces.com/problemset/problem/158- 
+- Domino piling — https://codeforces.com/problemset/problem/50- 
+- Beautiful Matrix — https://codeforces.com/problemset/problem/263- 
+- Petya and Strings — https://codeforces.com/problemset/problem/112- 
+- Boy or Girl — https://codeforces.com/problemset/problem/236- 
+- Helpful Maths — https://codeforces.com/problemset/problem/339- 
+- Word Capitalization — https://codeforces.com/problemset/problem/281- 
+- Bear and Big Brother — https://codeforces.com/problemset/problem/791- 
+- Elephant — https://codeforces.com/problemset/problem/617/A
