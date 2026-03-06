@@ -21,3 +21,8 @@
 - https://judge.beecrowd.com/pt/problems/view/1019
 - https://judge.beecrowd.com/pt/problems/view/1020
 - https://judge.beecrowd.com/pt/problems/view/1021
+
+- https://judge.beecrowd.com/pt/problems/view/1016
+- https://judge.beecrowd.com/pt/problems/view/1930
+- https://judge.beecrowd.com/pt/problems/view/2413
+- https://judge.beecrowd.com/pt/problems/view/2437 (manhatam)
