@@ -1,0 +1,8 @@
+- https://codeforces.com/problemset/problem/236/A
+- https://codeforces.com/problemset/problem/520/A
+- https://codeforces.com/problemset/problem/617/A
+- https://codeforces.com/problemset/problem/4/A
+- https://codeforces.com/problemset/problem/996/A
+- https://codeforces.com/problemset/problem/1154/A
+- https://codeforces.com/problemset/problem/500/A
+- https://codeforces.com/problemset/problem/702/A
